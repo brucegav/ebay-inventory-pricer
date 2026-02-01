@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+env_gitignore_script.ipynb
+google_creds.json
+failed_searches.csv
+**/google_creds.json
+**/failed_searches.csv
